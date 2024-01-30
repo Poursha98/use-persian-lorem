@@ -1,0 +1,37 @@
+{
+  "name": "use-persian-lorem",
+  "version": "1.0.1",
+  "description": "this is very simple, just oepn {} within your jsx element and write usePersianLorem(wordNum) and you are good to go :)",
+  "main": "use-persian-lorem.js",
+  "files": [
+    "use-persian-lorem.js",
+    "randomWords.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Poursha98/use-persian-lorem.git"
+  },
+  "keywords": [
+    "lorem",
+    "lorem-ipsum",
+    "persian-lorem",
+    "persian-lorem-ipsum",
+    "farsi",
+    "text-generator",
+    "random-text-generation",
+    "persian-words"
+  ],
+  "author": "Poursha Karimi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Poursha98/use-persian-lorem/issues"
+  },
+  "homepage": "https://github.com/Poursha98/use-persian-lorem#readme",
+  "peerDependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
