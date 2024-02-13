@@ -1,6 +1,6 @@
 {
   "name": "use-persian-lorem",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "description": "this is very simple, just oepn {} within your jsx element and write usePersianLorem(wordNum) and you are good to go :)",
   "main": "use-persian-lorem.js",
   "files": [
@@ -24,7 +24,21 @@
     "random-text-generation",
     "persian-words",
     "farsi lorem",
-    "fa-lorem"
+    "fa-lorem",
+    "persian",
+    "lorem",
+    "react",
+    "react-hook",
+    "persian-lorem",
+    "text-generator",
+    "dummy-text",
+    "placeholder-text",
+    "persian-text",
+    "persian-language",
+    "web-development",
+    "npm-package",
+    "javascript",
+    "localization"
   ],
   "author": "Poursha Karimi",
   "license": "ISC",
